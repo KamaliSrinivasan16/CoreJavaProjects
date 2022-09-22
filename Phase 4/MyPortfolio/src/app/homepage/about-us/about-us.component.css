@@ -1,0 +1,22 @@
+.middle-container{
+    line-height: 2;
+    margin:500px 0;
+    }
+
+    .skill-row{
+        width:50%;
+        margin:auto;
+        text-align: left;
+        line-height: 2;
+      }
+      .coding-img{
+        width:20%;
+        float: left;
+        margin-right: 30px;
+      }
+      
+      .terminal-img{
+        width:15%;
+        float: right;
+        margin-left: 30px;
+      }
