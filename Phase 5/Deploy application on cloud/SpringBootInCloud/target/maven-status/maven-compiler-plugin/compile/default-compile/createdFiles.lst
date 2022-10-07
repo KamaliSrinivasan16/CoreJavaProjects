@@ -1,0 +1,4 @@
+com\ss\SpringBootInCloudApplication.class
+com\ss\controller\CloudController.class
+com\ss\repository\CloudRepo.class
+com\ss\entity\CloudEntity.class
